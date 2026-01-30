@@ -13,7 +13,7 @@ INSERT INTO products (product_name, price) VALUES
 ('Keyboard', 2500.00),
 ('Monitor', 15000.00);
 
--- Orders (order_date auto-generated)
+-- Orders
 INSERT INTO orders (customer_id) VALUES
 (1),
 (1),
